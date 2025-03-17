@@ -1,3 +1,9 @@
+# THIS IS A CUSTOM REPOSITORY OF THE TAXONOMY REPOSITORY MADE BY INSTRUCTLAB
+Paths for updated knowledge:
+taxonomy/knowledge/philosophy/law/india/bns/qna.yaml
+taxonomy/knowledge/philosophy/law/india/bns/attribution.txt
+
+
 # InstructLab 🐶 Taxonomy
 
 ## Contents 📖

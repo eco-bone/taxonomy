@@ -1,0 +1,209 @@
+version: 3
+domain: law
+created_by: ajay
+seed_examples:
+  - context: |
+      CHAPTER VI - OF OFFENCES AFFECTING THE HUMAN BODY
+      Of kidnapping, abduction, slavery and forced labour
+      Section 137 - Kidnapping
+      (1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful
+      guardianship––
+      (a) whoever conveys any person beyond the limits of India without the consent
+      of that person, or of some person legally authorised to consent on behalf of
+      that person, is said to kidnap that person from India;
+      (b) whoever takes or entices any child or any person of unsound mind, out of
+      the keeping of the lawful guardian of such child or person of unsound mind,
+      without the consent of such guardian, is said to kidnap such child or person
+      from lawful guardianship.
+      Explanation.––The words “lawful guardian” in this clause include any person
+      lawfully entrusted with the care or custody of such child or other person.
+      Exception.—This clause does not extend to the act of any person who in good
+      faith believes himself to be the father of an illegitimate child, or who in
+      good faith believes himself to be entitled to the lawful custody of such
+      child, unless such act is committed for an immoral or unlawful purpose.
+      (2) Whoever kidnaps any person from India or from lawful guardianship shall
+      be punished with imprisonment of either description for a term which may
+      extend to seven years, and shall also be liable to fine.
+    questions_and_answers:
+      - question: |
+          If my husband takes our child abroad without informing me, does it count as kidnapping?
+        answer: |
+          It depends. If the parent taking the child is the lawful guardian and has the legal right to make such a decision, it may not be considered kidnapping. However, if they do not have sole custody or are violating a court order, it could be considered kidnapping from lawful guardianship. Taking a child abroad without the consent of a legally authorized person may also qualify as kidnapping from India under Section 137(1)(a).
+      - question: |
+          Can my child's teacher be charged with kidnapping if they took my child away from school without informing me or my husband?
+        answer: |
+          Yes, if the teacher takes the child out of the lawful guardian’s custody without consent, it could amount to kidnapping from lawful guardianship under Section 137(1)(b). However, if the teacher was legally entrusted with the child's care and acted within their authority (such as for a school trip with prior permission), it would not be considered kidnapping.
+      - question: |
+          Someone I know believes he is the biological father of a child born out of wedlock and takes the child from the mother’s custody. Is this kidnapping?
+        answer: |
+          Not necessarily. Section 137 includes an exception stating that if a person in good faith believes they are the father of an illegitimate child or have lawful custody, their act does not amount to kidnapping unless done for an immoral or unlawful purpose. However, if the act is done deceitfully or against a legal guardian’s rights, it could still be considered kidnapping.
+  - context: |
+      Section 139 – Kidnapping or maiming a child for purposes of begging.
+      Whoever kidnaps any child below the age of eighteen years or, not
+      being the lawful guardian of such child, obtains the custody of the
+      child, in order that such child may be employed or used for the
+      purposes of begging shall be punishable with rigorous imprisonment
+      for a term which shall not be less than ten years but which may
+      extend to imprisonment for life, and shall also be liable to fine.
+      Whoever maims any child below the age of eighteen years in order
+      that such child may be employed or used for the purposes of begging
+      shall be punishable with imprisonment which shall not be less than
+      twenty years, but which may extend to life which shall mean imprisonment
+      for the remainder of that person’s natural life, and with fine.Where
+      any person, not being the lawful guardian of a child below the age of
+      eighteen years employs or uses such child for the purposes of begging,
+      it shall be presumed, unless the contrary is proved, that he kidnapped
+      or otherwise obtained the custody of such child in order that such child
+      might be employed or used for the purposes of begging.In this section
+      “begging” means,soliciting or receiving alms in a public place, whether
+      under the pretence of singing, dancing, forture-telling, performing
+      tricks or selling articles or otherwise;entering on any private premises
+      for the purpose of soliciting or receiving alms;exposing or exhibiting,
+      with the object of obtaining or extorting alms, any sore, wound, injury,
+      deformity or disease, whether of himself or of any other person or of an
+      animal;using such childas an exhibit for the purpose of soliciting or
+      receiving alms.
+
+    questions_and_answers:
+      - question: |
+          If I adopt a street child informally and ask him to sell small items on the street, can I be charged?
+        answer: |
+          Yes, if the child is being used to solicit or receive alms in a public place, even under the pretense of selling items, it may fall under the definition of "begging" in Section 139. Since the person is not the lawful guardian, the law presumes they obtained custody of the child for begging unless they can prove otherwise. This could result in imprisonment of at least ten years.
+      - question: |
+          A man in my neighborhood forces a child with a disability to beg at a temple. What should I do?
+        answer: |
+          Forcing a child, especially one with a disability, to beg is an extremely serious crime. The person doing this can be jailed for life. You should immediately report this to the police or a child protection helpline. Your report can help rescue the child and hold the abuser accountable.
+      - question: |
+          I found a homeless child and started taking care of them, but I sometimes ask them to sell small items at traffic signals. Can I get into legal trouble?
+        answer: |
+          Yes, you could be charged with a crime. Even if you are trying to help, the law assumes that anyone who is not the child's legal guardian and uses them for earning money (even by selling things) is doing so for begging. This can lead to at least 10 years of imprisonment. Instead, you should contact child welfare services to ensure the child gets proper care.
+  - context: |
+      Section 140 – Kidnapping or abducting in order to murder or for ransom etc.
+      Whoever kidnaps or abducts any person in order that such person may be
+      murdered or may be so disposed of as to be put in danger of being murdered,
+      shall be punished with imprisonment for life or rigorous imprisonment for
+      a term which may extend to ten years, and shall also be liable to fine.
+      Illustrations:A kidnaps Z from India, intending or knowing it to be likely
+      that Z may be sacrificed to an idol. A has committed the offence defined in
+      this section.A forcibly carries or entices B away from his home in order
+      that B may be murdered. A has committed the offence defined in this section.
+      Whoever kidnaps or abducts any person or keeps a person in detention after
+      such kidnapping or abduction, and threatens to cause death or hurt to such
+      person, or by his conduct gives rise to a reasonable apprehension that such
+      person may be put to death or hurt, or causes hurt or death to such person
+      in order to compel the Government or any foreign State or international
+      inter-governmental organisation or any other person to do or abstain from
+      doing any act or to pay a ransom, shall be punishable with death, or
+      imprisonment for life, and shall also be liable to fine.Whoever kidnaps
+      or abducts any person with intent to cause that person to be secretly
+      and wrongfully confined, shall be punished with imprisonment of either
+      description for a term which may extend to seven years, and shall also
+      be liable to fine.Whoever kidnaps or abducts any person in order that
+      such person may be subjected, or may be so disposed of as to be put in
+      danger of being subjected to grievous hurt, or slavery, or to the
+      unnatural lust of any person, or knowing it to be likely that such
+      person will be so subjected or disposed of, shall be punished with
+      imprisonment of either description for a term which may extend to
+      ten years, and shall also be liable to fine.
+    questions_and_answers:
+      - question: |
+          I heard about cases where people are kidnapped for ransom. What punishment does the law give for such crimes?
+        answer: |
+          Kidnapping for ransom is one of the most serious crimes. If someone kidnaps a person and threatens to harm or kill them to force a payment or an action from the government, an organization, or another person, they can face the death penalty or life imprisonment, along with a fine. The law takes such crimes very seriously.
+      - question: |
+          If a person kidnaps someone and keeps them locked up without harming them, is that still a serious crime?
+        answer: |
+          Yes, even if the kidnapped person is not harmed, keeping someone in secret and wrongful confinement is a crime. The kidnapper can be jailed for up to seven years and fined. The law punishes not just physical harm but also the act of taking away someone's freedom.
+      - question: |
+          I read about cases where people are kidnapped and forced into slavery or other terrible acts. What does the law say about this?
+        answer: |
+          The law strictly punishes kidnapping that leads to slavery, grievous harm, or sexual exploitation. If someone kidnaps a person knowing that they will be subjected to such treatment, they can be imprisoned for up to ten years and fined. The law ensures strict action against such crimes.
+  - context: |
+      Section 143 – Trafficking of person. Whoever, for the purpose of
+      exploitation, recruits, transports, harbours, transfers, or receives,
+      a person or persons by,using threats; orusing force, or any other
+      form of coercion; orby abduction; orby practicing fraud, or deception;
+      orby abuse of power; orby inducement, including the giving or receiving
+      of payments or benefits, in order to achieve the consent of any person
+      having control over the person recruited, transported, harboured,
+      transferred or received, commits the offence of trafficking.
+      Explanation 1: The expression “exploitation” shall include any
+      act of physical exploitation or any form of sexual exploitation,
+      slavery or practices similar to slavery, servitude, beggary or forced
+      removal of organs.Explanation 2: The consent of the victim is
+      immaterial in determination of the offence of trafficking.Whoever
+      commits the offence of trafficking shall be punished with rigorous
+      imprisonment for a term which shall not be less than seven years,
+      but which may extend to ten years, and shall also be liable to fine.
+      Where the offence involves the trafficking of more than one person,
+      it shall be punishable with rigorous imprisonment for a term which
+      shall not be less than ten years but which may extend to imprisonment
+      for life, and shall also be liable to fine.Where the offence involves
+      the trafficking of a child below the age of eighteen years, it
+      shall be punishable with rigorous imprisonment for a term which
+      shall not be less than ten years, but which may extend to imprisonment
+      for life, and shall also be liable to fine.Where the offence involves
+      the trafficking of more than one child below the age of eighteen years,
+      it shall be punishable with rigorous imprisonment for a term which shall
+      not be less than fourteen years, but which may extend to imprisonment
+      for life, and shall also be liable to fine.If a person is convicted
+      of the offence of trafficking of child below the age of eighteen years
+      on more than one occasion, then such person shall be punished with
+      imprisonment for life, which shall mean imprisonment for the remainder
+      of that person’s natural life, and shall also be liable to fine.When
+      a public servant or a police officer is involved in the trafficking
+      of any person then, such public servant or police officer shall be
+      punished with imprisonment for life, which shall mean imprisonment
+      for the remainder of that person’s natural life, and shall also be
+      liable to fine.
+    questions_and_answers:
+      - question: |
+          What exactly is human trafficking, and how does the law define it?
+        answer: |
+          Human trafficking is when a person is recruited, transported, harbored, transferred, or received for the purpose of exploitation. This can be done through threats, force, coercion, fraud, abduction, or deception. Exploitation includes physical or sexual abuse, slavery, forced labor, begging, or even organ removal. Importantly, the victim’s consent does not matter in determining the crime.
+      - question: |
+          What punishment would I face if I was are caught trafficking someone?
+        answer: |
+          A person found guilty of human trafficking can be sentenced to rigorous imprisonment for at least seven years, which can go up to ten years, along with a fine. If more than one person is trafficked, the minimum punishment increases to ten years, which can extend to life imprisonment. If a child (below 18 years) is trafficked, the punishment starts at ten years and can go up to life imprisonment.
+      - question: |
+          What happens if a police officer or government official is involved in trafficking?
+        answer: |
+          If a public servant or police officer is caught trafficking any person, they face the harshest punishment—life imprisonment for the remainder of their natural life, along with a fine. The law ensures that those in power who misuse their position face the strictest consequences.
+  - context: |
+      Section 130 – Assault. Whoever makes any gesture, or any preparation intending
+      or knowing it to be likely that such gesture or preparation will cause any
+      person present to apprehend that he who makes that gesture or preparation is
+      about to use criminal force to that person, is said to commit an assault.
+      Explanation: Mere words do not amount to an assault. But the words which a
+      person uses may give to his gestures or preparation such a meaning as may make
+      those gestures or preparations amount to an assault.Illustrations:A shakes his
+      fist at Z, intending or knowing it to be likely that he may thereby cause Z to
+      believe that A is about to strike Z. A has committed an assault.A begins to
+      unloose the muzzle of a ferocious dog, intending or knowing it to be likely
+      that he may thereby cause Z to believe that he is about to cause the dog to
+      attack Z. A has committed an assault upon Z.A takes up a stick, saying to Z,
+      “I will give you a beating”. Here, though the words used by A could in no case
+      amount to an assault, and though the mere gesture, unaccompanied by any other
+      circumstances, might not amount to an assault, the gesture explained by the
+      words may amount to an assault.
+    questions_and_answers:
+      - question: |
+          Can I be charged with assault if I only used harsh words but did not make any threatening gestures?
+        answer: |
+          No, mere words alone do not amount to assault under Section 130. However, if your words are accompanied by threatening gestures that create a reasonable fear of imminent harm, it could be considered assault.
+      - question: |
+          If someone makes a threatening gesture at me but immediately apologizes, does it still count as assault?
+        answer: |
+          Yes, the offense of assault is complete the moment you feel a reasonable apprehension of harm due to the person's gesture or preparation. However, an apology may be considered by law enforcement or the court while determining penalties or leniency.
+      - question: |
+          A person picked up a stick and said, “I will beat you up,” but did not move toward me. Is this assault?
+        answer: |
+          If merely holding the stick without any accompanying gestures would not create fear, then it may not be assault. However, if the gesture combined with the words creates a reasonable apprehension that they are about to use criminal force, it may amount to assault under Section 130.
+document_outline: |
+  Overview of Laws in Bharatiya Nyaya Sanhita (BNS).
+
+document:
+  repo: https://github.com/eco-bone/ilab_sdg.git
+  commit: 442469c
+  patterns:
+    - Chapter_*/Section_*.md
